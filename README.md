@@ -24,97 +24,98 @@ flutter run
 
 ## Screenshots
 ### Splash Screen
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/a45c3cd0-1978-4b26-a5a6-73ab4d026f5d" alt="Splash screen" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/d7e1be04-2ae3-4d40-a7a7-c01034967418" alt="Splash screen" width="200" height="400" />
 
 ### User Guide
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/864da8f4-f61e-4fed-911f-0eae505ddf28" alt="User Guide" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/2ae72d85-ec07-4dbf-8eac-e643d86d57e3" alt="User Guide" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/38e72b9c-4212-4a86-8095-042f643b4ae8" alt="User Guide" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/c4e5ec75-9b2d-49fd-b877-a5f1a231f9a5" alt="User Guide" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/7c2f6e0c-e1c5-4bcb-a879-6030d50c725f" alt="User Guide" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/432c87cb-ed91-472e-8694-a8dd6e37b73c" alt="User Guide" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/1f3b70c6-4280-4d96-942d-c422fc8a1fb4" alt="User Guide" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/0da63279-faf0-430f-bcb1-ecb7be081156" alt="User Guide" width="200" height="400" />
 
 ### Home Screen
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/b73c4862-5238-4ff8-a5da-cace6c851cc6" alt="Home Screen" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/1000fadd-810d-4f03-a1e7-bc6a33010dcf" alt="Home Screen" width="200" height="400" />
 
 ### User systems list
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/03217313-3f62-4b03-aeae-e24c820658df" alt="logged in User Interface" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/8ffdaca1-93da-4134-b2ea-3b5bf9f94542" alt="logged in User Interface" width="200" height="400" />
 
 ### Add solar system - Select System name
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/d93320f4-97a4-46b0-a45d-dbf1b37c8240" alt="Select System name" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/4cd0ab58-4655-49ac-b467-b4c03c548af2" alt="Select System name" width="200" height="400" />
 
 ### Add solar system - Select User Yearly consumption and the number of phases
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/dc3b04b4-0043-46e5-9c27-99d0a76d4884" alt="Select User Yearly consumption and the number of phases" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/77732b5e-9b49-4c5a-a9e4-8967b5af07e0" alt="Select User Yearly consumption and the number of phases" width="200" height="400" />
 
 ### Add solar system - Select installation area
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/212baea6-cfc2-46ef-87b8-9f58692b828a" alt="Select installation area" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/1f46e469-5c32-4b71-8139-889f7d7185d5" alt="Select installation area" width="200" height="400" />
 
 ### Add solar system - Select Solar Panels
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/021a4f08-eb9a-430e-a240-7a96fcb92922" alt="Select Solar Panels" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/139a8042-552c-4c63-8be6-d0b1fd992259" alt="Select Solar Panels" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/34510df5-4025-4452-85c8-2276fd132741" alt="Select Solar Panels" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/aaed5b5e-5049-48e7-8c21-1ca50e2806d4" alt="Select Solar Panels" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/e64ac6c2-691b-43e8-b003-3704535bdb97" alt="Select Solar Panels" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/2fd6d718-5629-40f0-b474-a65efb996818" alt="Select Solar Panels" width="200" height="400" />
 
 ### Add solar system - Select Solar Panel Stand
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/d291800a-21d1-40af-b38f-20557abd30f5" alt="Select Solar Panel Stand" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/2cc5c4b9-9a18-45df-a070-587781663049" alt="Select Solar Panel Stand" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/95ce0d9d-1c0d-40b6-bacc-faafbde31c75" alt="Select Solar Panel Stand" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/1cc2b92e-51ca-4d97-92e3-0cae537e31c5" alt="Select Solar Panel Stand" width="200" height="400" />
 
 ### Add solar system - Select Inverter
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/5df48453-eebc-485e-a1e1-c7776b7ff4e3" alt="Select Inverter" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/f30a3182-b6fc-49e3-95b6-7c2b090ff601" alt="Select Inverter" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/d8224763-d77c-4fdd-8fb6-5097ac42b2dd" alt="Select Inverter" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/022eda8d-b65a-4ce0-a835-5473fe6ea8e8" alt="Select Inverter" width="200" height="400" />
 
 ### Add solar system - Select Battery (Optional)
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/5a23f116-d10c-4f34-98fb-4324e42b97b7" alt="Select Battery (Optional)" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/2396a2e0-ebe9-4122-9c3a-e6c5cd1fec06" alt="Select Battery (Optional)" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/9c31d1ca-99d0-4a1e-bc64-b95c4815a686" alt="Select Battery (Optional)" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/e7379d78-93e1-48bb-9d9e-440a1649caf2" alt="Select Battery (Optional)" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/7503164f-cc5e-493f-93c6-b5ce1d9b0f76" alt="Select Battery (Optional)" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/01ebc710-1a43-40ea-8b39-0b05082759c2" alt="Select Battery (Optional)" width="200" height="400" />
 
 ### User systems list and details of clicked system
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/29e2872b-cf68-4f96-ac82-eed7bcf55a10" alt="User systems list and details of clicked system" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/08f01906-ab51-4c19-9b79-1f9f416de38a" alt="User systems list and details of clicked system" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/2e30bb87-7885-4f50-8d0b-a5736ab513a7" alt="User systems list" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/a9e0cc8b-85d7-4fa8-83a6-45c9e118afdc" alt="details of clicked system" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/898e003f-554c-4633-94f0-1e5a353fee0b" alt="details of clicked system" width="200" height="400" />
 
 ### Admin - Company profile
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/09040b06-53c1-405d-9a00-5ae5d9aca7c7" alt="Admin - Company profile" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/d8bb8813-1d56-4d25-be68-9644a7b0e154" alt="Admin - Company profile" width="200" height="400" />
 
 ### Admin - Add components
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/23e3fce1-896e-4854-a770-c59b283550ac" alt="Admin - Add components" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/443f9dfe-1c99-400a-b227-8a3f89176ac1" alt="Admin - Add components" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/092a9de6-7366-4d44-80a1-44b8f609a17d" alt="Admin - Add components" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/841ac178-b1fe-4a55-ba76-a4d2b6963cae" alt="Admin - Add components" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/effa1053-163f-4bc0-b49d-b9c2b277e729" alt="Admin - Add components" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/f97bf031-db5d-48c2-ab0d-f69f82e7bd62" alt="Admin - Add components" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/e6db7868-be9e-4aa0-ba10-b25072f13274" alt="Admin - Add components" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/779d40ff-b660-47a8-8798-819a2b524aaf" alt="Admin - Add components" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/087c20f8-7dc4-46f6-85bc-9bff996bed1c" alt="Admin - Add components" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/161601be-ba84-493c-82b1-a3215f0f439b" alt="Admin - Add components" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/beabd68c-14d2-45ae-8422-afd6c0844390" alt="Admin - Add components" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/df9ee295-a9db-4f85-b61b-4a08c7fbcff1" alt="Admin - Add components" width="200" height="400" />
 
 ### Admin - Activate system
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/c17b00d8-ad12-413c-9b00-9715bd92c6b1" alt="Admin - Activate system" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/3897dcd3-9d1a-4d35-9d56-d61805945770" alt="Admin - Activate system" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/adf4f71c-fe3a-46f0-bc3e-8a96980ded6f" alt="Admin - Activate system" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/d4852b8d-411e-4a3b-a901-1f10eebd68e1" alt="Admin - Activate system" width="200" height="400" />
 
 ### Admin - Add new employee
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/e8e8ef05-bef8-44cf-a55d-e1dfac9aec3f" alt="Admin - Add new employee" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/716a73a9-dd6a-44ef-a7d4-0cb424912180" alt="Admin - Add new employee" width="200" height="400" />
 
 ### Monitoring system - Dashboard
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/7e4557e6-169d-4738-9d01-9c6f7562e758" alt="Monitoring system - Dashboard" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/7d7ba976-d4c3-45a3-9a2c-ef092512fe4c" alt="Monitoring system - Dashboard" width="200" height="400" />
 
 ### Monitoring system - Battery status
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/b8b7ce87-02a7-407f-aaf9-f99c374560ee" alt="Monitoring system - Battery status" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/0e85962e-e6b5-4678-af23-b2e8cdf767e1" alt="Monitoring system - Battery status" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/bd325898-0c4e-4ea4-b807-d94cac72c0c1" alt="Monitoring system - Battery status" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/6070cb94-509a-4f91-9385-be349fbb34ed" alt="Monitoring system - Battery status" width="200" height="400" />
 
 ### Monitoring system - Full monitoring
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/072f2834-7622-490b-bfeb-f47033469780" alt="Monitoring system - Full monitoring" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/0c131265-05b0-4a61-a3a1-4282f4308be8" alt="Monitoring system - Full monitoring" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/d3c4204b-7d82-43c6-9fbb-97d561983c26" alt="Monitoring system - Full monitoring" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/3caeec9a-c9cc-4147-8eec-588e1fbe822e" alt="Monitoring system - Full monitoring" width="200" height="400" />
 
 ### Monitoring system - User Profit
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/f5ed9673-e661-44ca-8600-35623c29015c" alt="Monitoring system - User Profit" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/f2bdc019-878c-4014-a134-395f98e2587d" alt="Monitoring system - User Profit" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/0918a9bf-247f-4b22-86a9-3691a55ae942" alt="Monitoring system - User Profit" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/6d0721a7-9142-4951-affe-2a28aafb847c" alt="Monitoring system - User Profit" width="200" height="400" />
 
 ### Settings
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/4f1ec442-ae71-492b-be0b-762e518fe7e2" alt="Monitoring system - Settings" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/b0fa1533-1bbb-4e69-b075-ba3a8eb987eb" alt="Monitoring system - Settings" width="200" height="400" />
 
 ### Settings - Personal information
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/92590886-5b5b-41fb-ad2e-8b90edcd2c69" alt="Monitoring system - Settings - Personal information" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/50e722ea-28a7-43f7-bb31-e81d84898e31" alt="Monitoring system - Settings - Personal information" width="200" height="400" />
 
 ### Settings - Generate report
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/a43b1ba0-d923-440f-ae36-ee18d5a7267f" alt="Monitoring system - Settings - Generate report" width="200" height="400" />
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/78823a58-d104-4559-975f-e9abc0ffadb3" alt="Monitoring system - Settings - Generate report" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/83316c36-7c2f-4e5b-9408-7304c5fbbeb2" alt="Monitoring system - Settings - Generate report" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/a05a3ca8-e881-4e5f-8882-f33420f925c2" alt="Monitoring system - Settings - Generate report" width="200" height="400" />
 
 ### Settings - Electricity company status
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/65194ce8-7b90-42c0-a4dc-35f2b4b3b8b9" alt="Monitoring system - Settings - Electricity company status" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/13ccaf43-6cd0-408b-aefb-945f0b7b2244" alt="Monitoring system - Settings - Electricity company status" width="200" height="400" />
 
 ### Settings - About us
-<img src="https://github.com/AnasATaleeb/MySolarApp/assets/93351227/5c98a36d-8dd7-40f4-8966-7cbd463add70" alt="Monitoring system - Settings - About us" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/e8d23f00-99c1-4b09-8354-dbe45c46e238" alt="Monitoring system - Settings - About us" width="200" height="400" />
 
